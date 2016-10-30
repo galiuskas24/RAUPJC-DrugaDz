@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\CetvrtiZad\bin\Debug\CetvrtiZad.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\CetvrtiZad\bin\Debug\CetvrtiZad.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\CetvrtiZad\bin\Debug\CetvrtiZad.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\CetvrtiZad\obj\Debug\CetvrtiZad.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\CetvrtiZad\obj\Debug\CetvrtiZad.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\CetvrtiZad\obj\Debug\CetvrtiZad.csprojResolveAssemblyReference.cache

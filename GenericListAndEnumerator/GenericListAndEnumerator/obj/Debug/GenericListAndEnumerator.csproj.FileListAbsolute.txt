@@ -1,0 +1,12 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GenericListAndEnumerator\GenericListAndEnumerator\bin\Debug\GenericListAndEnumerator.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GenericListAndEnumerator\GenericListAndEnumerator\bin\Debug\GenericListAndEnumerator.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GenericListAndEnumerator\GenericListAndEnumerator\bin\Debug\GenericListAndEnumerator.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GenericListAndEnumerator\GenericListAndEnumerator\obj\Debug\GenericListAndEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GenericListAndEnumerator\GenericListAndEnumerator\obj\Debug\GenericListAndEnumerator.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GenericListAndEnumerator\GenericListAndEnumerator\obj\Debug\GenericListAndEnumerator.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\GenericListAndEnumerator\GenericListAndEnumerator\bin\Debug\GenericListAndEnumerator.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\GenericListAndEnumerator\GenericListAndEnumerator\bin\Debug\GenericListAndEnumerator.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\GenericListAndEnumerator\GenericListAndEnumerator\bin\Debug\GenericListAndEnumerator.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\GenericListAndEnumerator\GenericListAndEnumerator\obj\Debug\GenericListAndEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\GenericListAndEnumerator\GenericListAndEnumerator\obj\Debug\GenericListAndEnumerator.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\GenericListAndEnumerator\GenericListAndEnumerator\obj\Debug\GenericListAndEnumerator.pdb

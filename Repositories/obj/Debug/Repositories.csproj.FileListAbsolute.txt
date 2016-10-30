@@ -1,0 +1,11 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\Repositories.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\GenericListAndEnumerator.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\Models.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\GenericListAndEnumerator.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\bin\Debug\Models.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\obj\Debug\Repositories.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Repositories\obj\Debug\Repositories.pdb

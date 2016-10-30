@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\TreciZad\bin\Debug\TreciZad.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\TreciZad\bin\Debug\TreciZad.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\TreciZad\bin\Debug\TreciZad.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\TreciZad\obj\Debug\TreciZad.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\TreciZad\obj\Debug\TreciZad.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\TreciZad\obj\Debug\TreciZad.pdb

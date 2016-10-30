@@ -1,0 +1,5 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Zadatak_7_i_8\bin\Debug\Zadatak_7_i_8.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Zadatak_7_i_8\bin\Debug\Zadatak_7_i_8.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Zadatak_7_i_8\bin\Debug\Zadatak_7_i_8.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Zadatak_7_i_8\obj\Debug\Zadatak_7_i_8.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Zadatak_7_i_8\obj\Debug\Zadatak_7_i_8.pdb

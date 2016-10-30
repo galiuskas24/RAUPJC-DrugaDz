@@ -1,0 +1,9 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\bin\Debug\Models.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\bin\Debug\Models.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\bin\Debug\GenericListAndEnumerator.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\Interfaces\bin\Debug\GenericListAndEnumerator.pdb

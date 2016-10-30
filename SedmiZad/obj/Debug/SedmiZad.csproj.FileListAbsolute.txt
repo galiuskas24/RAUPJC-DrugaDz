@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\SedmiZad\bin\Debug\SedmiZad.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\SedmiZad\bin\Debug\SedmiZad.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\SedmiZad\bin\Debug\SedmiZad.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\SedmiZad\obj\Debug\SedmiZad.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\SedmiZad\obj\Debug\SedmiZad.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\PrviZadatak\SedmiZad\obj\Debug\SedmiZad.csprojResolveAssemblyReference.cache
